@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "backlogs",
+  "info": {
+    "singularName": "backlog",
+    "pluralName": "backlogs",
+    "displayName": "backlog",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
