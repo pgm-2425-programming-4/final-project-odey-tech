@@ -1,4 +1,4 @@
-import PaginatedBacklog from '../components/PaginatedBacklog';
+import PaginatedBacklog from './components/PaginatedBacklog';
 
 function App() {
   return (
