@@ -45,7 +45,7 @@ function PaginatedBacklog() {
           {backlog.map((item) => (
             <tr key={item.id}>
               <td>{item.id}</td>
-              <td>{item.attributes.title}</td>
+              <td>{item.Title}</td>
             </tr>
           ))}
         </tbody>

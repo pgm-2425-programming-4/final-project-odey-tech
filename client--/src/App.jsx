@@ -1,4 +1,5 @@
 import PaginatedBacklog from './components/PaginatedBacklog';
+import "./App.css";
 
 function App() {
   return (
